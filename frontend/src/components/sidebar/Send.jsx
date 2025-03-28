@@ -10,7 +10,7 @@ const Send = () => {
 
     return (
         <div>
-            <p>Receiving mode</p>
+            <p>Sending mode</p>
             <select value={language} onChange={handleLanguageChange} style={{ borderRadius: "8px" }}>
                 <option value="af">Afrikaans</option>
                 <option value="sq">Albanian</option>
